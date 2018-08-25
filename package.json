@@ -1,0 +1,16 @@
+{
+  "name": "web3-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "katopz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.18.3",
+    "web3": "^1.0.0-beta.35"
+  }
+}
